@@ -1,4 +1,4 @@
-# my-python-project/my-python-project/README.md
+# Практическая работа 1
 
 # Проект на Python с использованием Pygame и NumPy
 
